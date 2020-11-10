@@ -56,6 +56,4 @@ for position in tuples_list:
             parametres4.append(value)
             result_dict[key] = parametres4
 
-
 print(result_dict)
-
