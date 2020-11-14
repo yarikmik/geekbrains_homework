@@ -49,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.task_4.2">
+  <component name="RunManager" selected="Python.task_4.3">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="lesson_4" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,13 +113,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task_4.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lesson_4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task_4.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.task_4.1" />
       <item itemvalue="Python.task_4.2" />
+      <item itemvalue="Python.task_4.3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task_4.3" />
         <item itemvalue="Python.task_4.2" />
         <item itemvalue="Python.task_4.1" />
       </list>
@@ -152,22 +175,22 @@
       <screen x="54" y="27" width="1226" height="997" />
     </state>
     <state x="146" y="305" key="#com.intellij.execution.impl.EditConfigurationsDialog/54.27.1226.997@54.27.1226.997" timestamp="1605319289799" />
-    <state width="1183" height="302" key="GridCell.Tab.0.bottom" timestamp="1605324317383">
+    <state width="1183" height="244" key="GridCell.Tab.0.bottom" timestamp="1605324750927">
       <screen x="54" y="27" width="1226" height="997" />
     </state>
-    <state width="1183" height="302" key="GridCell.Tab.0.bottom/54.27.1226.997@54.27.1226.997" timestamp="1605324317383" />
-    <state width="1183" height="302" key="GridCell.Tab.0.center" timestamp="1605324317381">
+    <state width="1183" height="244" key="GridCell.Tab.0.bottom/54.27.1226.997@54.27.1226.997" timestamp="1605324750927" />
+    <state width="1183" height="244" key="GridCell.Tab.0.center" timestamp="1605324750926">
       <screen x="54" y="27" width="1226" height="997" />
     </state>
-    <state width="1183" height="302" key="GridCell.Tab.0.center/54.27.1226.997@54.27.1226.997" timestamp="1605324317381" />
-    <state width="1183" height="302" key="GridCell.Tab.0.left" timestamp="1605324317380">
+    <state width="1183" height="244" key="GridCell.Tab.0.center/54.27.1226.997@54.27.1226.997" timestamp="1605324750926" />
+    <state width="1183" height="244" key="GridCell.Tab.0.left" timestamp="1605324750926">
       <screen x="54" y="27" width="1226" height="997" />
     </state>
-    <state width="1183" height="302" key="GridCell.Tab.0.left/54.27.1226.997@54.27.1226.997" timestamp="1605324317380" />
-    <state width="1183" height="302" key="GridCell.Tab.0.right" timestamp="1605324317383">
+    <state width="1183" height="244" key="GridCell.Tab.0.left/54.27.1226.997@54.27.1226.997" timestamp="1605324750926" />
+    <state width="1183" height="244" key="GridCell.Tab.0.right" timestamp="1605324750926">
       <screen x="54" y="27" width="1226" height="997" />
     </state>
-    <state width="1183" height="302" key="GridCell.Tab.0.right/54.27.1226.997@54.27.1226.997" timestamp="1605324317383" />
+    <state width="1183" height="244" key="GridCell.Tab.0.right/54.27.1226.997@54.27.1226.997" timestamp="1605324750926" />
     <state width="1183" height="302" key="GridCell.Tab.1.bottom" timestamp="1605324317387">
       <screen x="54" y="27" width="1226" height="997" />
     </state>
