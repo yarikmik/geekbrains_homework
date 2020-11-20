@@ -11,10 +11,10 @@ import time
 from itertools import cycle
 
 class TrafficLight:
-    _color = ['Красный', 'Желтый', 'Зеленый']
+    __color = ['Красный', 'Желтый', 'Зеленый']
 
     def running(self):
-        for i in cycle(self._color):
+        for i in cycle(self.__color):
             if i == 'Красный':
                 print(i)
                 time.sleep(7)
@@ -27,5 +27,5 @@ class TrafficLight:
 
 
 lights = TrafficLight()
-print(lights._color)
+print(lights._TrafficLight__color)
 lights.running()
