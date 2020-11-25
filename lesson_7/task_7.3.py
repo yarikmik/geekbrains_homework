@@ -71,10 +71,19 @@ c4 = Cell(4)
 print('сложение - ', c1 + c2 + c3)
 print('вычитание - ', c1 - c2 - c3)
 print('умножение - ', c1 * c2 * c3)
-print('умножение - ', c2 / c3)
-c5 = Cell(0)
+print('умножение - ', c2 / c3, '\n')
+
 c5 = c1 + c2
 print(c5)
-c6 = Cell(38)
-c6.make_order(12)
+c6 = c3 - c2
+print(c6)
+c9 = c2 - c3
+print(c9)
+c7 = c1 * c2
+print(c7)
+c8 = c3 / c2
+print(c8, '\n')
+
+c10 = Cell(38)
+c10.make_order(12)
 
