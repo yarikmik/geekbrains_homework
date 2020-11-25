@@ -40,14 +40,14 @@ matrix1 = Matrix([[3, 3, 5], [2, 5, 7], [1, 3, 0]])
 matrix2 = Matrix([[1, 1, 1], [2, 2, 2], [2, 2]])
 matrix3 = Matrix([[1, 1, 1], [2, 2, 2], [3, 3, 3]])
 list1 = [[0, 1, 1], [2, 1, 2]]
-
+list2 = [[4, 3, 2], [1, 0, 0], [6, 2, 1]]
 print(matrix1)
 print(matrix2)
 print(matrix3)
 
 print(f'Неудачное сложение: {matrix1 + matrix2.matrix}\n')
 print(f'Неудачное сложение: {matrix1 + list1}\n')
-print(f'Удачное сложение: \n{matrix1 + matrix3.matrix}\n')
+print(f'Удачное сложение: \n{matrix1 + matrix3.matrix + list2}\n')
 
 
 
